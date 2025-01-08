@@ -4,7 +4,7 @@
 
 When using the Outline VPN client in Windows, you may experience a problem: a 5-40 second delay before opening pages and executing requests. However, the Internet speed measured by http://speedtest.net is normal and after the delay is over, the page loads quickly.
 
-This may be related to the InterfaceMetric value of outline interface on Windows. This bat script will check whether the interface is configured correctly. And if it finds a problem, it will fix it.
+This may be related to the InterfaceMetric value of outline interface on Windows. This app will check whether the interface is configured correctly. And if it finds a problem, it will fix it.
 
 Related issue: https://github.com/Jigsaw-Code/outline-apps/issues/1235
 
@@ -14,7 +14,7 @@ Related issue: https://github.com/Jigsaw-Code/outline-apps/issues/1235
 
 При использовании VPN клиента Outline в windows может наблюдаться проблема: задержка 5-40 секунд перед открытием страниц и выполнением запросов. При этом скорость интернета по замеру http://speedtest.net в норме, а после задержки страница загружается быстро.
 
-Это может быть связано со значением InterfaceMetric вашего интерфейса outline. Данный bat-скрипт проверит, корректно ли настроен интерфейс. И если обнаружит проблему - исправит ее.
+Это может быть связано со значением InterfaceMetric вашего интерфейса outline. Приложение проверит, корректно ли настроен интерфейс. И если обнаружит проблему - исправит ее.
 
 Обсуждение этой проблемы: https://github.com/Jigsaw-Code/outline-apps/issues/1235
 
